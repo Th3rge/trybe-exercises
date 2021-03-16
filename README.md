@@ -14,9 +14,9 @@ Aplicaremos os conceitos ao longo do curso e em todos nosso projetos ao longo do
 ### Conteúdo a ser aprendido
 
 * __FRONT-END__   📚
-    1. HTML & HTML5 - [x]
-    2. CSS & CSS3 - [x]
-    3. JavaScript - [x]
+    1. HTML & HTML5 -[x]
+    2. CSS & CSS3 -[x]
+    3. JavaScript -[x]
         * REACT
         * JEST 
 
