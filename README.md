@@ -9,7 +9,7 @@ Aplicaremos os conceitos ao longo do curso e em todos nosso projetos ao longo do
 
 ### Meu LinkedIn  🖥️
 
-Link: (https://linkedin.com/in/thergefonseca)
+[Link](https://linkedin.com/in/thergefonseca)
 
 ### Conteúdo a ser aprendido
 
