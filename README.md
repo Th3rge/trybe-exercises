@@ -14,16 +14,16 @@ Aplicaremos os conceitos ao longo do curso e em todos nosso projetos ao longo do
 ### Conteúdo a ser aprendido
 
 * __FRONT-END__   📚
-    1. HTML & HTML5
-    2. CSS & CSS3
-    3. JavaScript
+    1. HTML & HTML5 [x]
+    2. CSS & CSS3 [x]
+    3. JavaScript [x]
         * REACT
         * JEST 
 
 * __BACK-END__   📚
     1. NODE.JS
     2. TypeScript
-    3. MySQL
+    3. MySQL [x]
     4. AWS
     5. FireBase
 
