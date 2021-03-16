@@ -14,18 +14,20 @@ Aplicaremos os conceitos ao longo do curso e em todos nosso projetos ao longo do
 ### Conteúdo a ser aprendido
 
 * __FRONT-END__   📚
-    1. HTML & HTML5 -[x]
-    2. CSS & CSS3 -[x]
-    3. JavaScript -[x]
+    1. HTML & HTML5
+    2. CSS & CSS3
+    3. JavaScript
         * REACT
         * JEST 
 
 * __BACK-END__   📚
     1. NODE.JS
     2. TypeScript
-    3. MySQL [x]
+    3. MySQL
     4. AWS
     5. FireBase
+
+- [x] Fazer
 
     ![FullStack JavaScript](https://www.javaavancado.com/wp-content/uploads/2018/03/salario-de-um-full-stack-tecnologia.jpg)
 
@@ -34,7 +36,7 @@ Aplicaremos os conceitos ao longo do curso e em todos nosso projetos ao longo do
 
     #### Interessado em conhecer mais?  🗄️
 ~~~
-    sudo git clone https://github.com/Th3rge
+ >   sudo git clone https://github.com/Th3rge
 ~~~
 
 Front-end | Back-end
