@@ -1,26 +1,26 @@
-# Trybe-exercises
-## O que estamos fazendo?
+# Trybe-exercises 🧑🏾‍🎓
+## O que estamos fazendo? 
 
 estamos aprendendo a utilizar o **GIT**, **GITHUB** e a estilizar o **README.md**
 
-### O que vamos fazer?
+### O que vamos fazer?  📝
 
 Aplicaremos os conceitos ao longo do curso e em todos nosso projetos ao longo do _nosso_ _desenvolvimento_ à **Dev Full Stack**!
 
-### Meu LinkedIn
+### Meu LinkedIn  🖥️
 
 Link: (https://linkedin.com/in/thergefonseca)
 
 ### Conteúdo a ser aprendido
 
-* __FRONT-END__ 
+* __FRONT-END__   📚
     1. HTML & HTML5
     2. CSS & CSS3
     3. JavaScript
         * REACT
         * JESTgit 
 
-* __BACK-END__
+* __BACK-END__   📚
     1. NODE.JS
     2. TypeScript
     3. MySQL
@@ -32,7 +32,7 @@ Link: (https://linkedin.com/in/thergefonseca)
     > FullStack Student - *learning*
 
 
-    #### Interessado em conhecer mais?
+    #### Interessado em conhecer mais?  🗄️
 
     ` sudo git clone https://github.com/Th3rge `
 
