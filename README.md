@@ -43,3 +43,4 @@ Front-end | Back-end
 *CSS* | *Typescript*
 *JavaScript* | *MySQL*
 *React* | *AWS*
+*Jest* | *Firebase*
