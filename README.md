@@ -28,6 +28,8 @@ Aplicaremos os conceitos ao longo do curso e em todos nosso projetos ao longo do
     5. FireBase
 
 - [x] Fazer
+- [ ] Não fazer
+- [ ] Teste
 
     ![FullStack JavaScript](https://www.javaavancado.com/wp-content/uploads/2018/03/salario-de-um-full-stack-tecnologia.jpg)
 
