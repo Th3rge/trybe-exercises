@@ -27,9 +27,7 @@ Aplicaremos os conceitos ao longo do curso e em todos nosso projetos ao longo do
     4. AWS
     5. FireBase
 
-- [x] Fazer
-- [ ] Não fazer
-- [ ] Teste
+
 
     ![FullStack JavaScript](https://www.javaavancado.com/wp-content/uploads/2018/03/salario-de-um-full-stack-tecnologia.jpg)
 
@@ -43,7 +41,7 @@ Aplicaremos os conceitos ao longo do curso e em todos nosso projetos ao longo do
 
 Front-end | Back-end
 ---------: | ---------:
-*HTML* | *Node.js*
+- [x] *HTML* |- [x] *Node.js*
 *CSS* | *Typescript*
 *JavaScript* | *MySQL*
 *React* | *AWS*
