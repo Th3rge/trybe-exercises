@@ -39,7 +39,7 @@ Link: (https://linkedin.com/in/thergefonseca)
 
 Front-end | Back-end
 ---------: | ---------:
-_HTML_ | _Node.js_
-_CSS| _Typescript_
-_JavaScript| _MySQL
-_React| _AWS_
+_HTML | Node.js
+CSS| Typescript_
+JavaScript| MySQL
+React| AWS_
