@@ -41,7 +41,7 @@ Aplicaremos os conceitos ao longo do curso e em todos nosso projetos ao longo do
 
 Front-end | Back-end
 ---------: | ---------:
-- [x] *HTML* |- [x] *Node.js*
+*HTML* |*Node.js*
 *CSS* | *Typescript*
 *JavaScript* | *MySQL*
 *React* | *AWS*
