@@ -37,9 +37,9 @@ Link: (https://linkedin.com/in/thergefonseca)
     sudo git clone https://github.com/Th3rge
 ~~~
 
-Linguagem | Framework
---------- | ------
-JavaScript| React
-JavaScript| Node.JS
-JavaScript| Jest
-JavaScript| Vue.js
+Front-end | Back-end
+---------: | ---------:
+HTML| Node.js
+CSS| Typescript
+JavaScript| MySQL
+React| AWS
