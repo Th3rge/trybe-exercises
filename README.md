@@ -18,7 +18,7 @@ Link: (https://linkedin.com/in/thergefonseca)
     2. CSS & CSS3
     3. JavaScript
         * REACT
-        * JEST
+        * JESTgit 
 
 * __BACK-END__
     1. NODE.JS
