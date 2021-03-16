@@ -42,4 +42,4 @@ Front-end | Back-end
 *HTML* | *Node.js*
 *CSS* | *Typescript*
 *JavaScript* | *MySQL*
-*React* | AWS*
+*React* | *AWS*
