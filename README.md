@@ -34,7 +34,7 @@ Link: (https://linkedin.com/in/thergefonseca)
 
     #### Interessado em conhecer mais?  🗄️
 ~~~
-    `sudo git clone https://github.com/Th3rge`
+    sudo git clone https://github.com/Th3rge
 ~~~
 
 Linguagem | Framework
